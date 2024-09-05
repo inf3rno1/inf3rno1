@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discord.js logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordpy/discordpy-original.svg" height="30" alt="discord.py logo" />
+  <img src="https://images.opencollective.com/discordpy/25fb26d/logo/256.png" height="30" alt="discord.py logo" />
 </div>
 
 ###
