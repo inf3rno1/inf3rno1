@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Inferno 👾
+<h2 align="left">Hi 👋! My name is Inferno 👾</h2>
 
 ###
 
@@ -45,3 +45,11 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">
+  <a href="https://www.youtube.com/@astrixtrinity">YouTube Channel</a> - https://www.youtube.com/@astrixtrinity<br>
+  <a href="https://www.instagram.com/9.xyl_/">Instagram</a> - https://www.instagram.com/9.xyl_<br>
+  <a href="https://discord.com/users/1226469925053403156">Discord</a> - <https://discord.com/users/1226469925053403156>
+</p>
